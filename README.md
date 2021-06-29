@@ -7,6 +7,10 @@ SWOOSAT is a full-stack application designed to track recurring online subscript
 
 Technologies are listed below.  
 
+## link to the Deployed App
+
+https://evening-fortress-06751.herokuapp.com/
+
 ## User Story
  - AS AN online consumer
  - I WANT an application to track my online and mobile subscriptions
@@ -63,6 +67,11 @@ This application was created exclusively by:
 
 ## Usage
 * [GitHub Repository](https://github.com/Laura-Bullek/Subscription-Tracker)
+
+## Screenshots
+
+![IMAGE OF A SOWSAAT PROFILE](./public/images/evening-fortress-06751.herokuapp.com_profile.png)
+![image of swosaat login page](./public/images/evening-fortress-06751.herokuapp.com_.png)
 
 ## Licensing
 MIT License
