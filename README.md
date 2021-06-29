@@ -70,8 +70,8 @@ This application was created exclusively by:
 
 ## Screenshots
 
-![IMAGE OF A SOWSAAT PROFILE](./public/images/evening-fortress-06751.herokuapp.com_profile.png)
 ![image of swosaat login page](./public/images/evening-fortress-06751.herokuapp.com_.png)
+![IMAGE OF A SOWSAAT PROFILE](./public/images/evening-fortress-06751.herokuapp.com_profile.png)
 
 ## Licensing
 MIT License
