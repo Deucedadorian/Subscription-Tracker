@@ -56,7 +56,7 @@ https://evening-fortress-06751.herokuapp.com/
 - Heroku
 - MySQL Database
 - Sequelize ORM
-- Chart.js API
+- Cart.js API
 
 ## Credits 
 This application was created exclusively by:
