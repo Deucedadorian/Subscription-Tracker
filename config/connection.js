@@ -12,7 +12,7 @@ const sequelize = new Sequelize(
     logging: console.log,
     maxConcurrentQueries: 100,
     dialectOptions: {
-      ssl:'Amazon RDS',
+      ssl:{"rejectUnauthorized":true},
     },
     pool: { maxConnections: 5, maxIdleTime: 30},
     language: 'en'
